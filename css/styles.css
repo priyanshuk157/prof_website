@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden !important;
+}
+
 /* priyanshu */
 .bodyColor{
     background-color: #EFF5F5 !important;
